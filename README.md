@@ -1,0 +1,2 @@
+# bootstrapCal-smalar
+liste oluşturma 
